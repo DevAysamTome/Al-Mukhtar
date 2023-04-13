@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2023/04/13" author="e.World Technology Ltd.">
+  <project id="{0EA10286-4F61-46C1-99C7-B5845D78C542}" file="C:\Users\Aysam Tohme\Documents\PHPMaker\Projects\project2.pmp" name="project2" product="PHPMaker" version="15.0" datetime="2023/04/13 23:21:49" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="nav" name="nav" caption="قسم العناوين" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="slideshow" name="slideshow" caption="قسم عرض الشرائح" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="cars" name="cars" caption="cars" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="carimg" name="carimg" caption="صور السيارات" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
